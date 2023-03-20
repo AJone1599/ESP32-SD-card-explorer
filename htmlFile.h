@@ -12,7 +12,6 @@ const char index_html[] PROGMEM = R"rawliteral(
     <p>
         ----
     </p>
-    <!--I think the forms tag creates a url link with the values of the input-->
     <div>
         <label for="fname">File Name:</label>
         <input type="text" id="fname" name="fname"><br><br>
